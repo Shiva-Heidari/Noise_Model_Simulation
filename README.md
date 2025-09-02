@@ -14,7 +14,7 @@ Hands-on Qiskit 2.x exercises that:
   - `markdown/`
     - `before_code.md` — Pre-code concept explainer (problem setup).
     - `after_code.md` — Post-code results interpretation.
-
+ 
 - `scripts/` *(optional if you prefer .py)*  
   - `noisy_bell_one_cell.py` — Same as the one-cell demo, runnable as a script.
 
